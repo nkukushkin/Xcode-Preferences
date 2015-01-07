@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>lazy</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>- (&lt;#Class#&gt;)&lt;#name#&gt;
+{
+    if (_&lt;#name#&gt; == nil) {
+        _&lt;#name#&gt; = &lt;#Instantiate#&gt;;
+    }
+    
+    return _&lt;#name#&gt;;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0A7D59EE-0DDB-42B9-AA5B-06946742F87B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Declare getter with lazy instantiation.</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Lazy Getter</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
