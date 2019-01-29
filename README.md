@@ -1,7 +1,7 @@
-# Xcode UserData 
+## Xcode Theme 
 
-Install path: `.../Library/Developer/Xcode/UserData`
+The theme I use is [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme/tree/master/Xcode%204) with slight modifications.
 
-### Theme
+Install path: `.../Library/Developer/Xcode/UserData/FontAndColorThemes`
 
-• [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme/tree/master/Xcode%204) with slight modifications.
+
