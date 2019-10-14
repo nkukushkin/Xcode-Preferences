@@ -1,7 +1,7 @@
-## Xcode Theme 
+## Xcode Preferences
 
-This is [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme/tree/master/Xcode%204) with slight modifications.
+This repo contains various Xcode preferences I need to sync between devices.
 
-Installation path: `.../Library/Developer/Xcode/UserData/FontAndColorThemes`
+Installation path: `…/Library/Developer/Xcode/UserData/…`
 
 
