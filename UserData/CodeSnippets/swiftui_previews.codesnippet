@@ -3,25 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>init</string>
+	<string>previews</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (instancetype)init {
-    self = [super init];
-    if (self) {
-        &lt;#statements#&gt;
+	<string>// MARK: - Previews
+
+#if DEBUG
+struct &lt;#Name#&gt;_Previews: PreviewProvider {
+    static var previews: some View {
+      &lt;#previews#&gt;
     }
-    return self;
-}</string>
+}
+#endif</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B9C77933-A8B4-4312-8BAB-E62D586F88FF</string>
+	<string>C9902036-7298-4C7F-984E-AABBDFA0C215</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Objective-C init</string>
+	<string>[SwiftUI] Previews</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

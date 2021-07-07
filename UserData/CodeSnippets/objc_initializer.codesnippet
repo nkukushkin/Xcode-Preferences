@@ -3,19 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@weakify</string>
+	<string>init</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@weakify(&lt;#instance#&gt;);</string>
+	<string>- (instancetype)init {
+    self = [super init];
+    if (self) {
+        &lt;#statements#&gt;
+    }
+    return self;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>05F94FB6-8801-4695-83DC-0BD0E7D957F5</string>
+	<string>B9C77933-A8B4-4312-8BAB-E62D586F88FF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Weakify</string>
+	<string>[Objc] Initializer</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

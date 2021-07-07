@@ -3,19 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@strongify</string>
+	<string>nnb</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@strongify(&lt;#instance#&gt;);</string>
+	<string>NS_ASSUME_NONNULL_BEGIN</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>419D60B7-EBFE-41AF-BC9D-D828451680C7</string>
+	<string>74557237-55E5-4A38-8B66-3DAA62A760F1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Strongify</string>
+	<string>[Objc] Nonnull Begin</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

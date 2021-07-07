@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>initb</string>
+	<string>mark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>self = [super init];
-if (self) {
-    &lt;#Initialization#&gt;
-}
-return self;</string>
+	<string>// MARK: - &lt;#Name#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C5F97DCC-048B-45AA-B419-8710D09B7A88</string>
+	<string>2AF8010D-8EF5-4C81-B986-66C5CC867139</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Objective-C Init body</string>
+	<string>[Swift] Mark Divider</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
