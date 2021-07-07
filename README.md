@@ -1,7 +1,5 @@
 ## Xcode Preferences
 
-This repo contains various Xcode preferences I need to sync between devices.
+### Installation
 
-Installation path: `…/Library/Developer/Xcode/UserData/…`
-
-
+Run `sh install.sh`
