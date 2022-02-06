@@ -3,27 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>_init</string>
+	<string>_forward_protocol</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (instancetype)init {
-    self = [super init];
-    if (self) {
-        &lt;#statements#&gt;
-    }
-    return self;
-}</string>
+	<string>@protocol &lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B9C77933-A8B4-4312-8BAB-E62D586F88FF</string>
+	<string>5FE16DC0-4986-4312-912F-88AA137D87C0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Objc] Initializer</string>
+	<string>[Objc] Protocol Forward Declaration</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

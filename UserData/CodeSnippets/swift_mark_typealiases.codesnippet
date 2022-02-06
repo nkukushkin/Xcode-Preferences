@@ -3,24 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tern</string>
+	<string>_mark_typealiases</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
-		<string>CodeBlock</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>&lt;#condition#&gt;
-  ? &lt;#true#&gt;
-  : &lt;#false#&gt;</string>
+	<string>// MARK: Typealiases</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E863A9A8-1F7E-4706-9912-8A4394CFAF72</string>
+	<string>E8A4E791-3194-4247-B243-05B11B4F4A60</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Swift] Ternary Operator</string>
+	<string>[Swift] Mark Typealiases</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

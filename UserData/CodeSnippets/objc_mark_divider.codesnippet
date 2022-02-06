@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>fdprotocol</string>
+	<string>_mark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@protocol &lt;#name#&gt;;</string>
+	<string>#pragma mark - &lt;#Title#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>5FE16DC0-4986-4312-912F-88AA137D87C0</string>
+	<string>7D38CFFA-D37D-44AF-995F-BB2D9480E00E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Objc] Protocol Forward Declaration</string>
+	<string>[Objc] Mark Divider</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

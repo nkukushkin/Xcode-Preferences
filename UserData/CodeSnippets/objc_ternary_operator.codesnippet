@@ -3,21 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mview</string>
+	<string>_tern</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>CodeExpression</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: View</string>
+	<string>&lt;#condition#&gt;
+  ? &lt;#true#&gt;
+  : &lt;#false#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F2BEA83A-722A-41A1-BFEC-745C52A37B8B</string>
+	<string>9BFB1837-BEFB-4411-B622-B8C246A7FA1C</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[SwiftUI] Mark View</string>
+	<string>[Objc] Ternary Operator</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

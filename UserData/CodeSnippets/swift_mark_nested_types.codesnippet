@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mark</string>
+	<string>_mark_nested_types</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - &lt;#Name#&gt;</string>
+	<string>// MARK: Nested Types</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2AF8010D-8EF5-4C81-B986-66C5CC867139</string>
+	<string>DFCD416D-2977-4C89-9FD8-0F6952EACBA6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Swift] Mark Divider</string>
+	<string>[Swift] Mark Nested Types</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

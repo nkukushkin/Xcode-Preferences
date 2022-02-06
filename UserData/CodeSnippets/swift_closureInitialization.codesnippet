@@ -3,24 +3,30 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mtypealiases</string>
+	<string>_closure_initialization</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
+		<string>CodeBlock</string>
+		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: Typealiases</string>
+	<string>&lt;#Type#&gt; = {
+  let &lt;#instance#&gt; = &lt;#Type#&gt;
+
+  return &lt;#instance#&gt;
+}()</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E8A4E791-3194-4247-B243-05B11B4F4A60</string>
+	<string>014ED0C8-0786-4EA7-9391-7C5C9011DFD3</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Swift] Mark Typealiases</string>
+	<string>[Swift] Closure Initialization</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

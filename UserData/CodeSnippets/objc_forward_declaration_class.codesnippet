@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mlifecyle</string>
+	<string>_forward_class</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: Lifecyle</string>
+	<string>@class &lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>30211F55-082B-4369-9F83-F38D948B38C5</string>
+	<string>18E8F21E-16A5-4130-B95D-BFBC7A497842</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Swift] Mark Lifecycle</string>
+	<string>[Objc] Class Forward Declaration</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

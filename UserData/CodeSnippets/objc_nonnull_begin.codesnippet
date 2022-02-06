@@ -3,25 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>initb</string>
+	<string>_nnb</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>self = [super init];
-if (self) {
-  &lt;#initialization#&gt;
-}
-return self;</string>
+	<string>NS_ASSUME_NONNULL_BEGIN</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C5F97DCC-048B-45AA-B419-8710D09B7A88</string>
+	<string>74557237-55E5-4A38-8B66-3DAA62A760F1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Objc] Initializer body</string>
+	<string>[Objc] Nonnull Begin</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

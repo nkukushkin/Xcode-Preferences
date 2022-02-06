@@ -3,24 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tern</string>
+	<string>_mark_methods</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
-		<string>CodeBlock</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>&lt;#condition#&gt;
-  ? &lt;#true#&gt;
-  : &lt;#false#&gt;;</string>
+	<string>// MARK: &lt;#Scope#&gt; Methods</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9BFB1837-BEFB-4411-B622-B8C246A7FA1C</string>
+	<string>92521B68-1D6B-448C-B6C8-469407988AEA</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Objc] Ternary Operator</string>
+	<string>[Swift] Mark Methods</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

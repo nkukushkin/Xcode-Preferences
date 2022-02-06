@@ -3,24 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lazy</string>
+	<string>_mark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if (!&lt;#_variable#&gt;) {
-    &lt;#_variable#&gt; = &lt;#initialization#&gt;;
-}
-return &lt;#_variable#&gt;;</string>
+	<string>// MARK: - &lt;#Name#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>480723AF-EEF4-4257-8969-9B74483FBC9A</string>
+	<string>2AF8010D-8EF5-4C81-B986-66C5CC867139</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Objc] Lazy Property Body</string>
+	<string>[Swift] Mark Divider</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

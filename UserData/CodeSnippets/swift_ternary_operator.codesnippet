@@ -3,21 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>nnb</string>
+	<string>_tern</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>CodeExpression</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NS_ASSUME_NONNULL_BEGIN</string>
+	<string>&lt;#condition#&gt;
+  ? &lt;#true#&gt;
+  : &lt;#false#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>74557237-55E5-4A38-8B66-3DAA62A760F1</string>
+	<string>E863A9A8-1F7E-4706-9912-8A4394CFAF72</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Objc] Nonnull Begin</string>
+	<string>[Swift] Ternary Operator</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

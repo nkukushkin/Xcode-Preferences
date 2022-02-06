@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>msubscripts</string>
+	<string>_nne</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: Subscripts</string>
+	<string>NS_ASSUME_NONNULL_END</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>DFCD416D-2977-4C89-9FD8-0F6952EACBA6</string>
+	<string>64EBD7CE-B03D-47F2-854D-A921100BEDC3</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Swift] Mark Subscripts</string>
+	<string>[Objc] Nonnull End</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

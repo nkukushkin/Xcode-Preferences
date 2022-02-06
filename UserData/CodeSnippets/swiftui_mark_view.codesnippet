@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>fdclass</string>
+	<string>_mark_view</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@class &lt;#name#&gt;;</string>
+	<string>// MARK: View</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>18E8F21E-16A5-4130-B95D-BFBC7A497842</string>
+	<string>F2BEA83A-722A-41A1-BFEC-745C52A37B8B</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Objc] Class Forward Declaration</string>
+	<string>[SwiftUI] Mark View</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

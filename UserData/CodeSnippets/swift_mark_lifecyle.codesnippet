@@ -3,27 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>_init</string>
+	<string>_mark_lifecycle</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (instancetype)init {
-    self = [super init];
-    if (self) {
-        &lt;#statements#&gt;
-    }
-    return self;
-}</string>
+	<string>// MARK: Lifecycle</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B9C77933-A8B4-4312-8BAB-E62D586F88FF</string>
+	<string>30211F55-082B-4369-9F83-F38D948B38C5</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Objc] Initializer</string>
+	<string>[Swift] Mark Lifecycle</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

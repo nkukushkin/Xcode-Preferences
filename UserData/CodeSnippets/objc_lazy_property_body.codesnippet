@@ -3,21 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>nne</string>
+	<string>_lazy</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NS_ASSUME_NONNULL_END</string>
+	<string>if (!&lt;#_variable#&gt;) {
+    &lt;#_variable#&gt; = &lt;#initialization#&gt;;
+}
+return &lt;#_variable#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>64EBD7CE-B03D-47F2-854D-A921100BEDC3</string>
+	<string>480723AF-EEF4-4257-8969-9B74483FBC9A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>[Objc] Nonnull End</string>
+	<string>[Objc] Lazy Property Body</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
