@@ -62,7 +62,7 @@ apply_preferences:
 	defaults write com.apple.dt.Xcode DVTTextEditorTrimTrailingWhitespace -bool YES
 	defaults write com.apple.dt.Xcode DVTTextEditorTrimWhitespaceOnlyLines -bool YES
 
-	defaults write com.apple.dt.Xcode DVTTextIndentUsingTabs -bool NO
+	defaults write com.apple.dt.Xcode DVTTextIndentUsingTabs -bool YES
 	defaults write com.apple.dt.Xcode DVTTextIndentTabWidth -integer 2
 	defaults write com.apple.dt.Xcode DVTTextIndentWidth -integer 2
 	defaults write com.apple.dt.Xcode DVTTextIndentSoloBraces -bool NO
